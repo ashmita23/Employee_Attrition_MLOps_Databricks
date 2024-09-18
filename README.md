@@ -3,7 +3,7 @@ Build a scalable machine learning pipeline in Databricks to predict employee att
 
 
 
-The initial EDA of the data which was followed by binning of numerical features for better accuracy.
+The initial Exploratory Data Analysis of the data which was followed by binning of numerical features for better accuracy.
 <img width="808" alt="Screenshot 2024-09-02 at 1 41 49 PM" src="https://github.com/user-attachments/assets/42e74030-965c-4a85-9cc0-dc24b355dbea">
 
 
